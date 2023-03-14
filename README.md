@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vernal Galpotthawela</h1>
+<h1 align="center">Hi 👋,  I'm Vernal Galpotthawela</h1>
 <h3 align="center">A Software Enthusiast that has a background in finance, math, and computer science</h3>
 
 - 📫 How to reach me **VernalGal2000@Gmail.com**
